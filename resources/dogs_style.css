@@ -34,6 +34,11 @@ a:hover {
   font-family: cursive;
 }
 
+a.imageLink {
+  margin-right: auto;
+  margin-left: auto;
+}
+
 p {
   text-align: center;
   font-family:  "Comic Sans MS";
