@@ -1,0 +1,57 @@
+/*
+	blue: #498BA6
+	yellow-orange: #F29727
+	orange: #F28627
+	brown:  #A6583C
+	sand: #A6977B
+
+	brown:  #734712
+	skin color:  #F4B970
+	orange:  #F29727
+	gray-brown:  #735735
+	light brown:  #BF771F
+	light peach:  #FFE0B7
+*/
+
+body {
+	background-color: #FDF0E0;
+	padding: 0 24px 36px 24px;
+}
+
+a {
+	color: #cc9149;
+	font-weight: bold;
+}
+
+a:hover {
+	color: #498BA6;
+}
+
+h1, h2{
+	color: #543612;
+}
+
+h1 {
+	text-align:  center;
+}
+
+p.picture {
+	text-align: center;
+}
+
+p, li, table {
+	font-size: 1.2em;
+}
+
+th, td {
+	/*border-color:#735735;
+	border-style: solid;
+	border-width: 2px;*/
+	border: #543612 solid 3px;
+	padding:  6px 10px;
+	text-align:  center;
+}
+
+table {
+	border-collapse: collapse;
+}
